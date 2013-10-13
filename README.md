@@ -1,6 +1,6 @@
 # Coding dojo with Elixir
 
-This dojo happened at the Lambda3 office in São Paulo on Semptember 19th. We used the Elixir programming language which was briefly introduced by Victor Arias.
+This dojo happened at the Lambda3 office in São Paulo on September 19th. We used the Elixir programming language which was briefly introduced by Victor Arias.
 
 ## Game of life
 
